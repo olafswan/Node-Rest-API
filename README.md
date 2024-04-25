@@ -1,5 +1,5 @@
 ## Build A REST API With Node.js, Express, & MongoDB [📺](https://youtu.be/fgTGADljAeg) 
-#### by Kyle from [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified)
+#### by Kyle from [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified) YouTube channel
 
 ### 🧠 Concepts Covered:
 
